@@ -48,9 +48,10 @@ A great demonstration of **human-computer interaction (HCI)** concepts and web-b
 ---
 
 ## 📂 Folder Structure
+
+├── README.md # Project documentation
 ├── index.html # Main game HTML file (includes embedded CSS and JS)
 ├── night-phonk.mp3 # Background music (hosted externally)
-├── README.md # Project documentation
 
 
 ---
